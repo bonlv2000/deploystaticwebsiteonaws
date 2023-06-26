@@ -17,3 +17,6 @@ CloudFront Distributions:
 
 CloudFront Distribution domain name:
 ![image](https://github.com/bonlv2000/deploystaticwebsiteonaws/assets/59633180/da0d7736-cecf-47b5-b8de-be8a41cb7c08)
+
+Done:
+![image](https://github.com/bonlv2000/deploystaticwebsiteonaws/assets/59633180/53bf7f8c-e1d7-4b7d-84a6-bcb553ae000c)
