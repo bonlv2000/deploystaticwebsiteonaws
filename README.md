@@ -1,6 +1,7 @@
 # deploystaticwebsiteonaws
 
 Url Project CloudFront : https://d2msqtmhf68n86.cloudfront.net/
+
 Url Static website hosting : http://deploystaticwebsiteonaws.s3-website-us-east-1.amazonaws.com/
 
 S3 Buckets:
